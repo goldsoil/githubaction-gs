@@ -8,9 +8,9 @@
     "test": "mocha tests/*.js"
   },
   "dependencies": {
-    "chai": "^5.1.0",
+    "chai": "^5.1.2",
     "express": "^4.18.3",
-    "mocha": "^10.3.0",
-    "supertest": "^6.3.4"
+    "mocha": "^11.0.1",
+    "supertest": "^7.0.0"
   }
 }
